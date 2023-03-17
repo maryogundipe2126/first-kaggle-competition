@@ -1,2 +1,3 @@
 # first-kaggle-competition
-Advanced Regression prediction
+Advanced Regression prediction (House price)
+Losgistic Regression (Spaceship)
